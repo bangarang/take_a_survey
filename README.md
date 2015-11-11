@@ -19,4 +19,4 @@ Or run the gulpfile and check out my dev setup:
 
 ## Make A Survey
 
-Go to (http://localhost:4000/admin)[http://localhost:4000/admin] to make a new survey, add options to choose from and see how many answers each option has gotten. Add a few questions and then head over to the root to *take some survey* or a few of them: (http://localhost:4000)[http://localhost:4000]
+Go to [http://localhost:4000/admin](http://localhost:4000/admin) to make a new survey, add options to choose from and see how many answers each option has gotten. Add a few questions and then head over to the root to *take some survey* or a few of them: [http://localhost:4000/](http://localhost:4000/)
