@@ -5,7 +5,6 @@ var router  = express.Router();
 var Sequelize = require('sequelize');
 var Promise = require('promise');
 
-
 router.get('/', function(req, res) {
     res.render('admin');
 });
