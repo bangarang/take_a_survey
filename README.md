@@ -13,11 +13,11 @@ Built on a Mac for a Mac. We're going to Ireland, to take some surveys.
 
 - From there, you can run the app:
 
-  		npm start
+  	npm start
 
 - Or run the gulpfile and check out my dev setup:
 
-  		gulp
+  	gulp
 
 ## Make A Survey
 
